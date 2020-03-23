@@ -1,6 +1,6 @@
 # Scrimba Privacy Policy
 
-This document describes how we handle personal data at Scrimba.com. It also contains contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
+This document describe how we handle personal data at [Scrimba.com](https://scrimba.com/). It also contain our contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
 
 At Scrimba.com we’re dedicated to keep your data safe, and we only collect information you explicitly share with us.
 
@@ -22,7 +22,7 @@ We’re also using Google Analytics. This data is also pseudoanonymized. We’re
 
 ## What is the legal basis for processing the data?
 
-The legal basis for processing your personal data is your consent when signing up on Scrimba. The only personal data you share with us is the details you share in the signup process.
+The legal basis for processing your personal data is your consent when signing up on Scrimba.com. The only personal data you share with us is the details you submit in the signup process.
 
 ## Will the data be shared with any third parties?
 
@@ -55,5 +55,5 @@ You can at any given time ask us to delete your data, and we will grant your req
 
 If you want us to delete your data please send an email to hello@scrimba.com and we’ll delete it.
 
-Other complaints can be sent to the same email address, or via sending a direct message to us on Twitter (@scrimba).
+Other complaints can be sent to the same email address, or by sending a direct message to us on Twitter [(@scrimba)](https://twitter.com/scrimba).
 
